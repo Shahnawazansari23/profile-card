@@ -1,0 +1,81 @@
+*{
+    margin: 5px 5px;
+    padding: 5px 5px;
+    font-family: "Ubuntu", sans-serif;
+    /* box-sizing: border-box; */
+    text-decoration: none;
+}
+body{
+    background-color: darkcyan;
+    width: 1450px;
+    /* height: 400px; */
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.contact-page{
+    border: 5px solid black;
+    box-sizing: border-box;
+    text-align: justify;
+    padding: 20px 10px 20px 10px;
+    margin: 30px 30px;
+    border-radius: 25px;
+    background: black;
+    width: 1400px;
+    /* height: 600px; */
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.name{
+    color: aqua;
+    font-size:x-large;
+    font-weight: bold;
+    text-align: center;
+}
+.email{
+    color: aqua;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+.text{
+    color: aqua;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+.submit{
+    border-radius: 30px;
+    height: 20px;
+    border-width: 40px;
+    /* display: inline-block;
+    padding: 12px 50px;
+    color: black;
+    border: 3px solid aqua;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: .3s linear;
+    font-weight: bold; */
+}
+/* .submit:hover{
+    background:aqua;
+    color: black;
+} */
+button{
+    display: inline-block;
+    padding: 12px 50px;
+    color: black;
+    border: 3px solid aqua;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: .3s linear;
+    font-weight: bold;
+}
+button:hover{
+    background:aqua;
+    color:black;
+}
+   
+    
+
